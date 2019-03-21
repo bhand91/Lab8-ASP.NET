@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "\\\\stfiles.wtstudents.wtamu.edu\\users\\students\\STVS1SG1DB2\\919353\\CIDM3312\\Lab 8 ASP.Net\\Lab 8 ASP.Net.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  }
+}

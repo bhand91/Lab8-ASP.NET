@@ -1,0 +1,13 @@
+@page
+@model TimeModel
+
+<div class = "text center">
+    <p>Time: @DateTime.Now</p>
+    <p>Message: @Model.Message</p>
+    
+    @foreach (var x in @Model.LuckyNumbers)
+    {
+        <p> @x </p>
+    }
+    
+</div>
